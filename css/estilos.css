@@ -5,3 +5,10 @@ body{
     background-color: black;
     align-items: center;
 }
+
+section{
+    display: block;
+    align-items: center;
+    flex-direction: column;
+    background-color: darkblue;
+}
